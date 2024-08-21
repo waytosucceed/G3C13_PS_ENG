@@ -1,0 +1,235 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Helping Verbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which helping verb is used with the subject \"I\" in the present time?",
+          "options": [
+            "Is",
+            "Are",
+            "Am",
+            "Were"
+          ],
+          "answer": 2,
+          "explanation": "The helping verb \"am\" is used with the subject \"I\" in the present time, e.g., \"I am a student.\""
+        },
+        {
+          "questionNo": 2,
+          "question": "She ______ a talented artist.",
+          "options": [
+            "am",
+            "is",
+            "are",
+            "were"
+          ],
+          "answer": 1,
+          "explanation": "\"She\" is a singular subject, and \"is\" here is used to describe a lasting characteristic."
+        },
+        {
+          "questionNo": 3,
+          "question": "He ______ never been to Paris.",
+          "options": [
+            "has",
+            "have"
+          ],
+          "answer": 0,
+          "explanation": "\"He\" is a singular subject, and \"has\" is used with singular subjects."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which helping verb is used with the subject \"you\" in the present time?",
+          "options": [
+            "Is",
+            "Am",
+            "Are",
+            "Was"
+          ],
+          "answer": 2,
+          "explanation": "The helping verb \"are\" is used with the subject \"you\" in the present time, e.g., \"You are a good friend.\""
+        },
+        {
+          "questionNo": 5,
+          "question": "They ______ playing outside when it started raining.",
+          "options": [
+            "was",
+            "were"
+          ],
+          "answer": 1,
+          "explanation": "\"They\" is plural, and \"were\" helps form the past time."
+        },
+        {
+          "questionNo": 6,
+          "question": "She _______ finished her assignment before dinner.",
+          "options": [
+            "has",
+            "have",
+            "had",
+            "is"
+          ],
+          "answer": 0,
+          "explanation": "The helping verb \"has\" is used with the singular subject (she, he, it)."
+        },
+        {
+          "questionNo": 7,
+          "question": "______ (Am/Is/Are) you coming to the party?",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": 2,
+          "explanation": "\"You\" is typically considered a plural pronoun in questions, and \"are\" is used with plural subjects."
+        },
+        {
+          "questionNo": 8,
+          "question": "The team _____ won the championship game.",
+          "options": [
+            "has",
+            "have",
+            "had",
+            "is"
+          ],
+          "answer": 1,
+          "explanation": "The helping verb \"have\" is used with the singular subject \"The team\" in the present time."
+        },
+        {
+          "questionNo": 9,
+          "question": "We ______ a great time at the beach.",
+          "options": [
+            "had",
+            "have"
+          ],
+          "answer": 0,
+          "explanation": "\"Had\" shows something that happened in the past (e.g.: yesterday, last month, last year). It is used with both singular and plural nouns and pronouns."
+        },
+        {
+          "questionNo": 10,
+          "question": "The flowers _____ bloomed in the garden.",
+          "options": [
+            "has",
+            "have",
+            "had",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "The helping verb \"have\" is used with the plural subject \"The flowers\" in the present time."
+        },
+        {
+          "questionNo": 11,
+          "question": "She ______ (was/were) tired after a long day at work.",
+          "options": [
+            "was",
+            "were"
+          ],
+          "answer": 0,
+          "explanation": "\"She\" is singular, and \"was\" helps describe a state of being in the past."
+        },
+        {
+          "questionNo": 12,
+          "question": "\"Had\" can be used as a helping verb with both singular and plural subjects.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"Had\" can be used as a helping verb with both singular and plural subjects in the past time."
+        },
+        {
+          "questionNo": 13,
+          "question": "It ______ raining heavily right now.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"It\" is a singular pronoun, and it helps describe the current state of the weather."
+        },
+        {
+          "questionNo": 14,
+          "question": "He __________ visited his nephews last summer.",
+          "options": [
+            "has",
+            "have",
+            "had",
+            "is"
+          ],
+          "answer": 2,
+          "explanation": "\"Had\" tells about something that happened before another thing in the past time."
+        },
+        {
+          "questionNo": 15,
+          "question": "She ______ (am/is/are) always on time for appointments.",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"She\" is singular, and \"is\" helps describe a habitual characteristic."
+        },
+        {
+          "questionNo": 16,
+          "question": "By the time the concert started, the fans _____ waiting for hours.",
+          "options": [
+            "was",
+            "were",
+            "had",
+            "have"
+          ],
+          "answer": 1,
+          "explanation": "The subject \"fans\" is plural, so we use the plural form of the verb. The correct sentence is: \"By the time the concert started, the fans were waiting for hours.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Which helping verb is used with the subject \"he\" in the past time?",
+          "options": [
+            "Were",
+            "Are",
+            "Was",
+            "Have"
+          ],
+          "answer": 2,
+          "explanation": "We use \"was\" with singular nouns, the pronouns I, HE, SHE and IT."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following sentences correctly uses the helping verb \"am\"?",
+          "options": [
+            "I am going to the store later.",
+            "She am a talented artist.",
+            "They am students at the university.",
+            "The dog am barking loudly."
+          ],
+          "answer": 0,
+          "explanation": "The helping verb \"am\" is used with the subject \"I\" in the present time."
+        },
+        {
+          "questionNo": 19,
+          "question": "They _______ (had/ has) finished their piano lessons before playing outside.",
+          "options": [
+            "had",
+            "has"
+          ],
+          "answer": 0,
+          "explanation": "\"Had\" shows something that happened in the past (e.g.: yesterday, last month, last year). It is used with both singular and plural nouns and pronouns."
+        },
+        {
+          "questionNo": 20,
+          "question": "Identify the sentence that correctly uses the helping verb \"were\":",
+          "options": [
+            "The students were studying for the exam.",
+            "She were a talented artist.",
+            "The book were on the shelf.",
+            "I were happy to see you."
+          ],
+          "answer": 0,
+          "explanation": "The helping verb \"were\" was used with the plural subject \"The students\" in the past time."
+        }
+      ]
+    }
+  ]
+}
